@@ -2,8 +2,8 @@
 THIS FILE ISN'T SUPPOSED TO BE MODIFIED!!
 YOU CAN'T EDIT A PAGE HERE!!
 
-To make a new page, please create a .php file in /wiki
-by duplicating the template.php file.
+To make a new page, please duplicate the
+template-article.php file in /wiki.
 
 The page will work as soon as it's created.
 
@@ -36,5 +36,5 @@ The code for this shell page is inside lines 15-37.
   </body>
 </html>
 
-<!-- You very likely don't want to modify this.
+<!-- You very likely don't want to modify this page.
 Scroll up! -->

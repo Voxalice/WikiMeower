@@ -1,5 +1,5 @@
 <!-- Page title -->
-<h1>title</h1>
+<h1>(insert one-line title here)</h1>
 
 <!-- Page content -->
 (insert any content here)
